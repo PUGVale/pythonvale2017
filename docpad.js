@@ -13,8 +13,8 @@ module.exports = {
       date: "02 de setembro de 2017",
       // If your event is free, just comment this line
       // price: "1 quilo de feijão",
-      venue: "Sede Brasil 317",
-      address: "Av. Comendador Vicente de Paulo Penido, 454, Jd. Aquarius",
+      venue: "Faculdade Bilac",
+      address: "R. Francisco Paes, 84",
       city: "São José dos Campos",
       state: "SP"
     },
@@ -69,17 +69,17 @@ module.exports = {
         time: "9h00",
       },
       {
-        name: "",
-        photo: "http://frontinvale.com.br/images/speakers/lightning-talker.jpg",
-        bio: "",
+        name: "Mateus Vieira",
+        photo: "themes/yellow-swan/img/speakers/mateus.jpg",
+        bio: "Recifense, apaixonado por macaxeira com carne de sol e queijo, Bacharel em Ciências da Computação na Universidade Católica de Pernambuco, membro do PUG-PE, Programador autodidata e anos de Python.",
         company: "",
         link: {
-          href: "",
+          href: "br.linkedin.com/in/mateusvieira",
           text: ""
         },
         presentation: {
-          title: "A definir",
-          description: "",
+          title: "Django - Ridiculamente Rápido",
+          description: "Por que Django? Django torna o desenvolvimento de excelentes aplicações WEB mais rápido, fácil e com menos códigos sem perder a qualidade, confiabilidade e robustez.",
           time: "09h20"
         }
       },
@@ -176,6 +176,16 @@ module.exports = {
     // List of Partners
     partners: [
       {
+        name: "Necto",
+        logo: "themes/yellow-swan/img/necto.png",
+        url: "http://znc.com.br/"
+      },
+      {
+        name: "Faculdades Bilac",
+        logo: "themes/yellow-swan/img/bilac.jpg",
+        url: "http://bilac.com.br/"
+      },
+      {
         name: "Designa",
         logo: "themes/yellow-swan/img/designa.png",
         url: "http://designa.com.br"
@@ -184,12 +194,7 @@ module.exports = {
         name: "Programe em Python",
         logo: "themes/yellow-swan/img/programeempython.png",
         url: "http://programeempython.com.br"
-      },
-      // {
-      //   name: "ZNC",
-      //   logo: "themes/yellow-swan/img/znc-logo.png",
-      //   url: "http://znc.com.br/"
-      // },
+      }
     ],
 
     // Theme path
