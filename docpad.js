@@ -84,16 +84,16 @@ module.exports = {
         }
       },
       {
-        name: "",
-        photo: "http://frontinvale.com.br/images/speakers/lightning-talker.jpg",
-        bio: "",
+        name: "Paulo Luan",
+        photo: "themes/yellow-swan/img/speakers/paulo.jpg",
+        bio: "Mais de 7 anos de xp em desenvolvimento, trabalhou nas maiores consultorias de software do país em projetos de grande relevância como o backend do internet banking de um dos maiores bancos da américa latina e um ecommerce global de vendas da Motorola. Apaixonado por software livre, hacker-ativista e aspirante a empreendedor.",
         company: "",
         link: {
-          href: "",
+          href: "https://www.github.com/pauloluan/",
           text: ""
         },
         presentation: {
-          title: "A definir",
+          title: "12 passos para melhoria de projetos de software",
           description: "",
           time: "10h00"
         }
@@ -118,17 +118,17 @@ module.exports = {
         }
       },
       {
-        name: "",
-        photo: "http://frontinvale.com.br/images/speakers/lightning-talker.jpg",
-        bio: "",
+        name: "Bianca Berdugo",
+        photo: "themes/yellow-swan/img/speakers/bianca.jpg",
+        bio: " Joseense, formada em engenharia da computação, full stack na empresa Brasil317 e futura cientista de dados (fé no pai).",
         company: "",
         link: {
           href: "",
           text: ""
         },
         presentation: {
-          title: "A definir",
-          description: "",
+          title: "Raspadinha de dados",
+          description: "Tanta informação preciosa disponível publicamente..como fazer a raspagem destes dados? E o mais importante, como fazer a indexação e pesquisas relevantes destes dados? Entenda como utilizamos Python, Selenium e ElasticSearch para fazer esta raspadinha de dados sem gelar a cabeça.",
           time: "11h50"
         }
       },
