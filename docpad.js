@@ -94,7 +94,7 @@ module.exports = {
         },
         presentation: {
           title: "12 passos para melhoria de projetos de software",
-          description: "",
+          description: "Desenvolver um projeto de software não é uma tarefa simples, principalmente quando se faz necessário cumprir prazos e manter a qualidade. O Joel test sao 12 passos simples criados pelo fundador do Stack overflow para melhorar a qualidade do produto final apontando temas recorrentes de projetos de software. A palestra abordará os 12 passos fazendo um paralelo com exemplos de ferramentas e projetos reais.",
           time: "10h00"
         }
       },
