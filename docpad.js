@@ -133,33 +133,18 @@ module.exports = {
         }
       },
       {
-        name: "",
-        photo: "http://frontinvale.com.br/images/speakers/lightning-talker.jpg",
-        bio: "",
+        name: "Paulo Giovani",
+        photo: "themes/yellow-swan/img/speakers/paulog.jpg",
+        bio: "Meu nome é Paulo Giovani e sou natural de Campos do Jordão, SP. Atualmente trabalho como professor de programação e banco de dados no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, no Câmpus da cidade de Campos do Jordão. Sou graduado em Computação Científica pela Universidade de Taubaté (UNITAU) e tenho mestrado em Computação Aplicada pelo Instituto Nacional de Pesquisas Espaciais (INPE). Minhas áreas de interesse incluem a programação em Python, banco de dados, mineração de dados, computação gráfica e desenvolvimento de games, dentre outros.",
         company: "",
         link: {
           href: "",
           text: ""
         },
         presentation: {
-          title: "A definir",
-          description: "",
+          title: "Física divertida com VPython!",
+          description: "O VPython é um módulo para a criação de gráficos 3D que atua em conjunto com a linguagem Python. Ele pode ser utilizado para criar diversos tipos de animações, tanto para diversão quanto como para uso educacional. Nessa palestra veremos como essa ferramenta pode ser empregada para auxiliar no estudo e aprendizagem de conceitos que envolvem leis simples da Física.",
           time: "12h30"
-        }
-      },
-      {
-        name: "",
-        photo: "http://frontinvale.com.br/images/speakers/lightning-talker.jpg",
-        bio: "",
-        company: "",
-        link: {
-          href: "",
-          text: ""
-        },
-        presentation: {
-          title: "A definir",
-          description: "",
-          time: "12h45"
         }
       }
     ],
