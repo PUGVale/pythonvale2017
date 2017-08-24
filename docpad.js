@@ -171,6 +171,11 @@ module.exports = {
         url: "http://bilac.com.br/"
       },
       {
+        name: "Allgoo",
+        logo: "themes/yellow-swan/img/allgoo.jpg",
+        url: "https://www.allgoo.com.br/"
+      },
+      {
         name: "Designa",
         logo: "themes/yellow-swan/img/designa.png",
         url: "http://designa.com.br"
