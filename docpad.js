@@ -166,6 +166,11 @@ module.exports = {
         url: "http://znc.com.br/"
       },
       {
+        name: "Casa do Código",
+        logo: "themes/yellow-swan/img/casadocodigo.png",
+        url: "http://www.casadocodigo.com.br"
+      },
+      {
         name: "Faculdades Bilac",
         logo: "themes/yellow-swan/img/bilac.jpg",
         url: "http://bilac.com.br/"
