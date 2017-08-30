@@ -103,17 +103,17 @@ module.exports = {
         time: "10h40",
       },
       {
-        name: "",
-        photo: "http://frontinvale.com.br/images/speakers/lightning-talker.jpg",
-        bio: "",
+        name: "Aditya Tantravahi",
+        photo: "themes/yellow-swan/img/speakers/aditya.jpg",
+        bio: "Mestrado em Computação Aplicada pelo INPE , entusiasta do mundo de dados a analytics, além de alguns anos brincando em empresas e startups com ciência de dados, machine learning e outras coisas mais!",
         company: "",
         link: {
           href: "",
           text: ""
         },
         presentation: {
-          title: "A definir",
-          description: "",
+          title: "Python e Deep Learning, feito um para o outro!",
+          description: "Deep Learning é a onda do momento e Python uma linguagem de programação fantástica. As redes neurais haviam sido esquecidas por um tempo mas com o poder computacional que temos hoje eles estão de volta, tendo se tornado um dos principais e mais usados métodos de Machine Learning ( Aprendizagem Automática). Embora a matemática por trás dela seja dificil, hoje temos inúmeros pacotes que facilitam o uso de maneira que com conhecimentos básicos de Estatística , Cálculo Diferencial e Algebra Linear um iniciante consegue fazer coisa incríveis com redes neurais!",
           time: "11h10"
         }
       },
@@ -184,11 +184,6 @@ module.exports = {
         name: "Designa",
         logo: "themes/yellow-swan/img/designa.png",
         url: "http://designa.com.br"
-      },
-      {
-        name: "Programe em Python",
-        logo: "themes/yellow-swan/img/programeempython.png",
-        url: "http://programeempython.com.br"
       }
     ],
 
